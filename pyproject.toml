@@ -41,7 +41,7 @@ dependencies = [
     "Pillow==13.0.0",
     "cffi==2.1.1",
     "six==1.17.0",
-    "urllib3==2.6.0",
+    "urllib3==2.8.0",
     "pynacl==1.6.2",
 ]
 
